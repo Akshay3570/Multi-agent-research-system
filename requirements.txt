@@ -10,6 +10,9 @@ openai>=1.30.0
 # Tavily Search Tool
 tavily-python>=0.3.0
 
+# Mistral integration for LangChain
+langchain-mistralai>=0.1.0
+
 # Web scraping
 beautifulsoup4>=4.12.0
 requests>=2.31.0
